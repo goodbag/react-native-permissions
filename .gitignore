@@ -45,7 +45,7 @@ buck-out/
 *.jsbundle
 
 # Bob
-lib/
+# lib/
 
 # CocoaPods
 Pods/
